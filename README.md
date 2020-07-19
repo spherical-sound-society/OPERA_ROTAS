@@ -3,7 +3,7 @@ OPL2 Based Generative Drum Machine
 
 User manual, schematics and interactive BOM (IBOM) available.
 
-Download the .rar file extract and open in your browser.
+To see the BOM, click on ibom0.85.rar, then click in Download(button at the right) to donwload the .rar file. Extract it and open in your browser.
 
 You can get PCBs, kits and fully assembled units here:
 https://www.tindie.com/stores/jc2046/
