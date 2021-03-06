@@ -1,3 +1,5 @@
+[CHECK YOUR PCB REVISION, 0.85 and 0.9 has different components values, use the appropiate ones!]
+
 # OPERA_ROTAS
 OPL2 Based Generative Drum Machine
 
