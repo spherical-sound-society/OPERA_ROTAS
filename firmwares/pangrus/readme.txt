@@ -3,7 +3,10 @@ Courtesy of Andrea (Pangrus). Thank you so much!!
 
 This firmware has MIDI working (on OPERA ROTAS rev 0.9 and higher). If you have a previous version, you will need a chiclet and a little bit of hacking to get the midi working
 
-This version uses a different bootloader, so if you want to flash it it could be convenient to get a new bluepill, flash this bootloader and then flash the pangrus firmware, so now you can change firmware just replacing one or the other bluepill. If your bluepill is low or medium density (64kb) use hid_generic_pc13.bin bootloader. If your bluepill is high density (128kb) use hid_generic_pc13_hd.bin bootloader.
+This version uses a different bootloader, so if you want to flash it it could be convenient to get a new bluepill, flash this bootloader and then flash the pangrus firmware, so now you can change firmware just replacing one or the other bluepill. 
+
+-If your bluepill is low or medium density (64kb) use hid_generic_pc13.bin bootloader. 
+-If your bluepill is high density (128kb) use hid_generic_pc13_hd.bin bootloader.
 
 If you dont know how to do it, you can get preflashed microcontrollers in my stores
 
