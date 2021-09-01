@@ -2,6 +2,9 @@ PANGRUS EDITION
 Courtesy of Andrea (Pangrus). Thank you so much!!
 
 This firmware has MIDI working (on OPERA ROTAS rev 0.9 and higher). If you have a previous version, you will need a chiclet and a little bit of hacking to get the midi working
+
+This version uses a different bootloader, so if you want to flash it it could be convenient to get a new bluepill, flash this bootloader and then flash the pangrus firmware, so now you can change firmware just replacing one or the other bluepill.
+
 The keyboard shorcuts are somewhat different. Also the songs has changed. The keys are:
 
 REC - start/stop. The ">" sign in the upper left appears when the OR sequencer is running.
