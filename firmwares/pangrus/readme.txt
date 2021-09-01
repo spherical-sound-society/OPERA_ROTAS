@@ -1,4 +1,4 @@
-PANGRUS EDITION
+PANGRUS EDITION (ver 1.0)
 Courtesy of Andrea (Pangrus). Thank you so much!!
 
 This firmware has MIDI working (on OPERA ROTAS rev 0.9 and higher). If you have a previous version, you will need a chiclet and a little bit of hacking to get the midi working
